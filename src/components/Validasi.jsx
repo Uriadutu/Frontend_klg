@@ -55,7 +55,6 @@ const Validasi = () => {
 
       {/* Tombol tambah pengguna */}
       <div className="p-4">
-        <p className="sub-judul">Data Belum Tervalidasi</p>
         <div className="overflow-x-auto">
           <table className="bg-gray-100 border border-gray-200 rounded-lg shadow-lg w-full">
             <thead>

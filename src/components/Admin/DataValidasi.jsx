@@ -62,7 +62,6 @@ const DataValidasi = () => {
 
       {/* Data Tabel */}
       <div className="p-4">
-        <p className="sub-judul">Data Belum Tervalidasi</p>
         <div className="overflow-x-auto mt-2">
           <table className="min-w-full bg-gray-100 border border-gray-200 rounded-lg shadow-lg">
             <thead>

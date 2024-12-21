@@ -36,7 +36,7 @@ const Dasbor = () => {
       {user?.role === "Admin" && (
         <p>
           Selamat Datang, <span className="uppercase">{user?.username}</span>.
-          Anda Sebagai Pengelolah Klenteng {klenteng?.nama_klenteng}
+          Anda Sebagai Pengelolah Rumah Ibadah {klenteng?.nama_klenteng}
         </p>
       )}
     </div>
